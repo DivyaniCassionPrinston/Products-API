@@ -1,0 +1,6 @@
+[products_api.db]
+port = 3306
+host = "localhost"
+user = "root"
+database = "insurance_db"
+password = "*******"
